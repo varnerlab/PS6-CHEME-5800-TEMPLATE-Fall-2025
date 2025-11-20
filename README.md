@@ -1,0 +1,2 @@
+# PS6-CHEME-5800-TEMPLATE-Fall-2025
+Problem Set 6 (PS6) Template for CHEME-5800 Fall 2025
