@@ -1,3 +1,6 @@
+"""
+Add your docstring here
+"""
 function build(modeltype::Type{MyExperimentalDrugCocktailContext}, data::NamedTuple)::MyExperimentalDrugCocktailContext
     
     # create new context instance -
@@ -15,6 +18,9 @@ function build(modeltype::Type{MyExperimentalDrugCocktailContext}, data::NamedTu
     return context
 end
 
+"""
+Add your docstring here
+"""
 function build(modeltype::Type{MyQLearningAgentModel}, data::NamedTuple)::MyQLearningAgentModel
     
     # create new model instance -
